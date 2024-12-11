@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800&display=swap');
 
-
+/* variáveis a serem aplicadas o longo do projeto */
 :root{
     --main--color: #00eeff;
     --text-color: #ffffff;
@@ -359,6 +359,7 @@ footer{
     cursor: pointer;
 }
 
+/* menu hambúrger */
 .menu-hamburger {
     display: none;
     flex-direction: column;
@@ -377,6 +378,7 @@ footer{
     transition: all 0.3s ease;
 }
 
+/* responsividade, ainda não está totalmente responsivo */
 @media (max-width: 768px) {
     .menu-hamburger {
         display: flex;
