@@ -1,2 +1,2 @@
 # Meu_Portf-lio
-<!-- Começr a desenvolver o Readme -->
+<!-- Começar a desenvolver o Readme -->
